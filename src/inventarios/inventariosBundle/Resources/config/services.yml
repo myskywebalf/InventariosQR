@@ -1,0 +1,7 @@
+parameters:
+#    inventarios.example.class: inventarios\inventariosBundle\Example
+
+services:
+#    inventarios.example:
+#        class: %inventarios.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
